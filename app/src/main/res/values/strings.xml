@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sample App Permissions</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_location">Waiting for location</string>
+    <string name="text_permission">Waiting for permissiom</string>
+    <string name="text_nopermission">Sorry No permission, No location</string>
+</resources>
